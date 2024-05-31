@@ -1,4 +1,3 @@
--- language: sql
 -- En SQL puedes hacer un comentario de esta manera.
 
 
