@@ -1,2 +1,2 @@
---Elimina la tabla entera con el nombre "TESLA".
+--Elimina la tabla entera con el nombre "JEEP".
 DROP TABLE JEEP;   
