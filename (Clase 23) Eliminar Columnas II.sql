@@ -1,2 +1,2 @@
--- Vacia la tabla entera.
+-- Vacia todas las columnas de la tabla.
 TRUNCATE TABLE HORARIO
