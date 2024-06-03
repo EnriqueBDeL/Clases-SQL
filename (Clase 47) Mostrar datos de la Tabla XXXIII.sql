@@ -1,0 +1,3 @@
+-- Si el valor es NULL, devuelve 0
+SELECT NVL(SALARIO, 0) AS SALARIO
+FROM EMPLEADOS3;
