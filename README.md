@@ -1,6 +1,6 @@
-En el pdf Clases SQL, encontrarás todos los codigos sql ordenados.
-<br>
+
 >[!NOTE]
+> En el pdf Clases SQL, encontrarás todos los codigos sql ordenados.<br>
 > Enlace por si no encuentras el documento: https://github.com/EnriqueBDeL/Clases-SQL/blob/main/Clases%20SQL.pdf
 <br><br>
 
