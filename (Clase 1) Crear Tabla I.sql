@@ -8,3 +8,4 @@ CREATE TABLE MERCEDES (
     N_MODELO VARCHAR2(30),          -- Esta línea añade la columna "N_MODELO" que solo contiene una cadena de texto con hasta 30 caracteres.
     PRECIO NUMBER(8,2)              -- Esta línea añade la columna "PRECIO" que contiene un valor numérico con hasta 8 dígitos en total, incluyendo 2 decimales.
 );
+
